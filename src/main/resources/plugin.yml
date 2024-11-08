@@ -1,0 +1,7 @@
+name: PHV
+version: '0.1.0-mc.1.21.1'
+main: org.lolimpossible.PHV
+api-version: '1.21'
+authors: [ lol.impossible ]
+description: A mod that slightly increases the capacity
+website: https://modrinth.com/user/lol_impossible
